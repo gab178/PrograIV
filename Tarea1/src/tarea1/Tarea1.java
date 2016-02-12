@@ -15,7 +15,7 @@ public class Tarea1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("Hola Mundo");
+       JOptionPane.showMessageDialog(null,"Hola Mundo");
     }
     
 }
